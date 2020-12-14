@@ -1,0 +1,33 @@
+Ran 12997 tests in 339.467s
+FAILED (failures=1439, errors=1149, skipped=889, expected failures=4)
+CONFIG 0 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13828 tests in 505.380s
+FAILED (failures=254, errors=10, skipped=937, expected failures=4)
+CONFIG 1 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 12997 tests in 340.633s
+FAILED (failures=1420, errors=1111, skipped=889, expected failures=4)
+CONFIG 10 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13828 tests in 424.707s
+FAILED (failures=1219, errors=244, skipped=936, expected failures=4)
+CONFIG 2 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13159 tests in 380.497s
+FAILED (failures=1332, errors=443, skipped=929, expected failures=4)
+CONFIG 3 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13828 tests in 396.907s
+FAILED (failures=1423, errors=203, skipped=937, expected failures=4)
+CONFIG 4 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13159 tests in 443.138s
+FAILED (failures=133, errors=329, skipped=928, expected failures=4)
+CONFIG 5 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13159 tests in 443.003s
+FAILED (failures=139, errors=322, skipped=928, expected failures=4)
+CONFIG 6 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 13159 tests in 380.876s
+FAILED (failures=1154, errors=500, skipped=928, expected failures=4)
+CONFIG 7 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 12997 tests in 324.651s
+FAILED (failures=1439, errors=1150, skipped=889, expected failures=4)
+CONFIG 8 IN COVERING ARRAY IS STARTED TO BE TESTED
+Ran 12997 tests in 327.952s
+FAILED (failures=1422, errors=1104, skipped=889, expected failures=4)
+CONFIG 9 IN COVERING ARRAY IS STARTED TO BE TESTED
